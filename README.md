@@ -1,1 +1,1 @@
-# Slackathon-weather-analysis-and-visualization-Kaif-Osei
+# Weather analysis and visualization
